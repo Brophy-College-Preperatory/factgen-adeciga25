@@ -17,3 +17,4 @@ function displayFact(){
     count = 0;
   }
 }
+//sets the facts and counts them to see which one will be chosen next.
